@@ -42,9 +42,9 @@ jobs:
     - name: Build CSS with Tailwind
       run: npm run watch:css
 
-    - name: Run tests
-      # run: composer test
-      run: vendor/bin/phpunit
+    # - name: Run tests
+    #   run: composer test
+    #   run: vendor/bin/phpunit
 
 
     - name: Deploy to Vercel

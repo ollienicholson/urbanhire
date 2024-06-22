@@ -4,6 +4,9 @@
 # Node.js
 node_modules/
 
+# Tailwind CSS output
+/output.css
+
 # Optional npm cache directory
 .npm
 

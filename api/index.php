@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="output.css">
 </head>
 <body>
-    <?php include 'header.php';?>
+    <?php include '../header.php';?>
     <h1>
         Welcome to UrbanHire Project
     </h1>
@@ -17,6 +17,6 @@
     <div class="bg-blue-500 text-white p-4">
         Tailwind CSS is working!
     </div>
-    <?php include 'footer.php';?>
+    <?php include '../footer.php';?>
     </body>
 </html>

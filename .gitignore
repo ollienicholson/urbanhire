@@ -30,3 +30,4 @@ dist/
 .stylelintrc.json
 
 test.json
+.vercel
